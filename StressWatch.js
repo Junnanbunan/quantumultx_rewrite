@@ -21,9 +21,9 @@ if (typeof $response == "undefined") {
   guding6.subscriber.entitlement = guding6.subscriber.entitlement || {};
   const app = 'gd';const list = {'gd':{name: 'StressWatch Pro', id: 'stress_membership_yearly'}};
   const data = {
-    "expires_date": "6666-06-06T06:06:06Z",
-    "original_purchase_date": "2023-02-23T02:33:33Z",
-    "purchase_date": "2024-12-09T02:33:33Z",
+    "expires_date": "2025-12-09T21:48:26Z",
+    "original_purchase_date": "2024-12-09T21:48:26Z",
+    "purchase_date": "2024-12-09T21:48:26Z",
     "ownership_type" : "PURCHASED",
     "store" : "app_store"};
 for (const i in list) { if (new RegExp(`^${i}`, `i`).test(app)) {
